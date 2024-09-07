@@ -93,9 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
-
----
 
 Enjoy exploring the capabilities of finger motion recognition and air writing!
 
